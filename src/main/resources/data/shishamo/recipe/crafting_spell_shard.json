@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "shishamo",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "shishamo:refined_spell_dust"
+    },
+    {
+      "item": "shishamo:nether_ingot"
+    },
+    {
+      "item": "shishamo:nether_ingot"
+    },
+    {
+      "item": "shishamo:refined_spell_dust"
+    }
+  ],
+  "result": {
+    "id": "shishamo:spell_shard",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "shishamo",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Branch"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BurningBranch"
+    },
+    "name": "smelting_branch",
+    "namespace": "mod"
+  }
+}

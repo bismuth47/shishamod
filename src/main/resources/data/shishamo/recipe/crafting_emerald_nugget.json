@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "shishamo",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:emerald"
+    }
+  ],
+  "result": {
+    "id": "shishamo:emerald_nugget",
+    "count": 9
+  }
+}

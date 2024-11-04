@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "shishamo",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "shishamo:spell_dust"
+    },
+    {
+      "item": "shishamo:spell_dust"
+    },
+    {
+      "item": "shishamo:spell_dust"
+    },
+    {
+      "item": "shishamo:spell_dust"
+    }
+  ],
+  "result": {
+    "id": "shishamo:refined_spell_dust",
+    "count": 1
+  }
+}

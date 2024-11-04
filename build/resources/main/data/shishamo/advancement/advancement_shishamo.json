@@ -1,0 +1,50 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "id": "shishamo:shishamo"
+    },
+    "title": {
+      "translate": "advancements.advancement_shishamo.title"
+    },
+    "description": {
+      "translate": "advancements.advancement_shishamo.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "advancement_shishamo_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "shishamo:crafting_love_sword_left",
+      "shishamo:crafting_love_sword_right",
+      "shishamo:crafting_love_sword_middle",
+      "shishamo:crafting_love_shovel_middle",
+      "shishamo:crafting_love_shovel_right",
+      "shishamo:crafting_love_shovel_left",
+      "shishamo:crafting_love_axe_middle_right",
+      "shishamo:crafting_love_axe_middle_left",
+      "shishamo:crafting_love_axe_right",
+      "shishamo:crafting_love_axe_left",
+      "shishamo:crafting_love_hoe_right",
+      "shishamo:crafting_love_hoe_left",
+      "shishamo:crafting_love_hoe_middle_left",
+      "shishamo:crafting_love_hoe_middle_right",
+      "shishamo:crafting_rain_ingot",
+      "shishamo:crafting_cloud_punch",
+      "shishamo:crafting_refined_spell_dust",
+      "shishamo:crafting_emerald_nugget",
+      "shishamo:crafting_emerald",
+      "shishamo:crafting_leaf_sword_middle",
+      "shishamo:crafting_leaf_sword_right",
+      "shishamo:crafting_leaf_sword_left"
+    ]
+  }
+}

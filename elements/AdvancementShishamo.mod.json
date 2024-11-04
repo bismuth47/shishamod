@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Shishamo",
+    "achievementDescription": "Welcome Shishamo",
+    "achievementIcon": {
+      "value": "CUSTOM:Shishamo"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "CraftingLoveSwordLeft",
+      "CraftingLoveSwordRight",
+      "CraftingLoveSwordMiddle",
+      "CraftingLoveShovelMiddle",
+      "CraftingLoveShovelRight",
+      "CraftingLoveShovelLeft",
+      "CraftingLoveAxeMiddleRight",
+      "CraftingLoveAxeMiddleLeft",
+      "CraftingLoveAxeRight",
+      "CraftingLoveAxeLeft",
+      "CraftingLoveHoeRight",
+      "CraftingLoveHoeLeft",
+      "CraftingLoveHoeMiddleLeft",
+      "CraftingLoveHoeMiddleRight",
+      "CraftingRainIngot",
+      "CraftingCloudPunch",
+      "CraftingRefinedSpellDust",
+      "CraftingEmeraldNugget",
+      "CraftingEmerald",
+      "CraftingLeafSwordMiddle",
+      "CraftingLeafSwordRight",
+      "CraftingLeafSwordLeft"
+    ],
+    "rewardFunction": "No function",
+    "rewardXP": 0,
+    "achievementType": "task",
+    "parent": {
+      "value": "No parent: root"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"-183\" y=\"102\"><next><block type=\"custom_trigger\"></block></next></block></xml>"
+  }
+}

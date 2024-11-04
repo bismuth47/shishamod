@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "group": "shishamo",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "shishamo:branch"
+  },
+  "result": {
+    "id": "shishamo:burning_branch"
+  }
+}

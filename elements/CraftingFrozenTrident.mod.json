@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "shishamo",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:FrozenIngot"
+      },
+      {
+        "value": "CUSTOM:FrozenIngot"
+      },
+      {
+        "value": "CUSTOM:FrozenIngot"
+      },
+      {
+        "value": "CUSTOM:FrozenIngot"
+      },
+      {
+        "value": "CUSTOM:FrozenTrident"
+      },
+      {
+        "value": "CUSTOM:FrozenIngot"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FrozenTrident"
+    },
+    "name": "crafting_frozen_trident",
+    "namespace": "mod"
+  }
+}

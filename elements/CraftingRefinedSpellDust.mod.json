@@ -1,0 +1,48 @@
+{
+  "_fv": 69,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "shishamo",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SpellDust"
+      },
+      {
+        "value": "CUSTOM:SpellDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpellDust"
+      },
+      {
+        "value": "CUSTOM:SpellDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RefinedSpellDust"
+    },
+    "name": "crafting_refined_spell_dust",
+    "namespace": "mod"
+  }
+}

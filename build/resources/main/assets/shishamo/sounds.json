@@ -1,0 +1,10 @@
+{
+  "music_disc.love": {
+    "sounds": [
+      {
+        "name": "shishamo:music_disc.love",
+        "stream": true
+      }
+    ]
+  }
+}

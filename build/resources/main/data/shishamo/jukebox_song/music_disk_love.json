@@ -1,0 +1,8 @@
+{
+  "comparator_output": 5,
+  "description": {
+    "translate": "item.shishamo.music_disk_love.desc"
+  },
+  "length_in_seconds": 100,
+  "sound_event": "shishamo:music_disc.love"
+}

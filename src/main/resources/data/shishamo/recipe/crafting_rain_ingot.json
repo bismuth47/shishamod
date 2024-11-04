@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "shishamo",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "shishamo:cloud_ingot"
+    }
+  ],
+  "result": {
+    "id": "shishamo:rain_ingot",
+    "count": 1
+  }
+}
