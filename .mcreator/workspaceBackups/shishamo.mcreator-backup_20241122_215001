@@ -1,0 +1,1348 @@
+{
+  "mod_elements": [
+    {
+      "name": "ShishamoTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shishamo_tab",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "LoveCrystal",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_crystal",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/LoveCrystalItem.java",
+          "src/main/resources/assets/shishamo/models/item/love_crystal.json"
+        ]
+      }
+    },
+    {
+      "name": "LoveSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/LoveSwordItem.java",
+          "src/main/resources/assets/shishamo/models/item/love_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "LovePickaxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_pickaxe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/love_pickaxe.json",
+          "src/main/java/shishamo/item/LovePickaxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetherIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/NetherIngotItem.java",
+          "src/main/resources/assets/shishamo/models/item/nether_ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "LoveAxe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_axe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/love_axe.json",
+          "src/main/java/shishamo/item/LoveAxeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveSwordLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_sword_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_sword_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveSwordRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_sword_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_sword_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveSwordMiddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_sword_middle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_sword_middle.json"
+        ]
+      }
+    },
+    {
+      "name": "Shishamo",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shishamo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/shishamo.json",
+          "src/main/java/shishamo/item/ShishamoItem.java"
+        ]
+      }
+    },
+    {
+      "name": "LoveShovel",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_shovel",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/LoveShovelItem.java",
+          "src/main/resources/assets/shishamo/models/item/love_shovel.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveShovelMiddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_shovel_middle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_shovel_middle.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveShovelRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_shovel_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_shovel_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveShovelLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_shovel_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_shovel_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveAxeMiddleRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_axe_middle_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_axe_middle_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveAxeMiddleLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_axe_middle_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_axe_middle_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveAxeRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_axe_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_axe_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveAxeLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_axe_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_axe_left.json"
+        ]
+      }
+    },
+    {
+      "name": "LoveHoe",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_hoe",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/love_hoe.json",
+          "src/main/java/shishamo/item/LoveHoeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveHoeRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_hoe_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_hoe_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveHoeLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_hoe_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_hoe_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveHoeMiddleLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_hoe_middle_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_hoe_middle_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLoveHoeMiddleRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_love_hoe_middle_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_love_hoe_middle_right.json"
+        ]
+      }
+    },
+    {
+      "name": "RainIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rain_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/rain_ingot.json",
+          "src/main/java/shishamo/item/RainIngotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CraftingRainIngot",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_rain_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_rain_ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "CloudIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloud_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/cloud_ingot.json",
+          "src/main/java/shishamo/item/CloudIngotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CloudPunch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloud_punch",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/cloud_punch.json",
+          "src/main/java/shishamo/item/CloudPunchItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CloudPunchLivingEntityIsHitWithItem",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cloud_punch_living_entity_is_hit_with_item",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/CloudPunchLivingEntityIsHitWithItemProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DdBlade",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dd_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/dd_blade.json",
+          "src/main/java/shishamo/item/DdBladeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "DdBladeLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dd_blade_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/DdBladeLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftingCloudPunch",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_cloud_punch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_cloud_punch.json"
+        ]
+      }
+    },
+    {
+      "name": "TradingCloudIngot",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "trading_cloud_ingot",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "FrozenSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/frozen_sword.json",
+          "src/main/java/shishamo/item/FrozenSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "LoveSwordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_sword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/LoveSwordLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrozenSwordLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_sword_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/FrozenSwordLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MusicDiskLove",
+      "type": "musicdisc",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "music_disk_love",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/jukebox_song/music_disk_love.json",
+          "src/main/resources/assets/shishamo/models/item/music_disk_love.json",
+          "src/main/java/shishamo/item/MusicDiskLoveItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SpellDust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spell_dust",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/spell_dust.json",
+          "src/main/java/shishamo/item/SpellDustItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RefinedSpellDust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "refined_spell_dust",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/RefinedSpellDustItem.java",
+          "src/main/resources/assets/shishamo/models/item/refined_spell_dust.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingRefinedSpellDust",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_refined_spell_dust",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_refined_spell_dust.json"
+        ]
+      }
+    },
+    {
+      "name": "EmeraldNugget",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "emerald_nugget",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/emerald_nugget.json",
+          "src/main/java/shishamo/item/EmeraldNuggetItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CraftingEmeraldNugget",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_emerald_nugget",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_emerald_nugget.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingEmerald",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_emerald",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_emerald.json"
+        ]
+      }
+    },
+    {
+      "name": "RaidenHammer",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raiden_hammer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/raiden_hammer.json",
+          "src/main/java/shishamo/item/RaidenHammerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RaidenHammerLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "raiden_hammer_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/RaidenHammerLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpellBlade",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spell_blade",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/spell_blade.json",
+          "src/main/java/shishamo/item/SpellBladeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SpellBladeLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spell_blade_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/SpellBladeLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LeafSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leaf_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/leaf_sword.json",
+          "src/main/java/shishamo/item/LeafSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLeafSwordMiddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_leaf_sword_middle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_leaf_sword_middle.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLeafSwordRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_leaf_sword_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_leaf_sword_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingLeafSwordLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_leaf_sword_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_leaf_sword_left.json"
+        ]
+      }
+    },
+    {
+      "name": "AdvancementShishamo",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "advancement_shishamo",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/advancement/advancement_shishamo.json"
+        ]
+      }
+    },
+    {
+      "name": "WelcomeShishamo",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "welcome_shishamo",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/WelcomeShishamoProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftingSpellblade",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_spellblade",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_spellblade.json"
+        ]
+      }
+    },
+    {
+      "name": "LoveBlockRedstoneOn",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_block_redstone_on",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/LoveBlockRedstoneOnProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LoveBlock",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "love_block",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/block/LoveBlockBlock.java",
+          "src/main/resources/assets/shishamo/blockstates/love_block.json",
+          "src/main/resources/data/shishamo/loot_table/blocks/love_block.json",
+          "src/main/resources/assets/shishamo/models/block/love_block.json",
+          "src/main/resources/assets/shishamo/models/item/love_block.json"
+        ]
+      }
+    },
+    {
+      "name": "SpellShard",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spell_shard",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/spell_shard.json",
+          "src/main/java/shishamo/item/SpellShardItem.java"
+        ]
+      }
+    },
+    {
+      "name": "CraftingSpellShard",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_spell_shard",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_spell_shard.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingDdBladeMiddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_dd_blade_middle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_dd_blade_middle.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingDdBladeLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_dd_blade_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_dd_blade_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingDdBladeRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_dd_blade_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_dd_blade_right.json"
+        ]
+      }
+    },
+    {
+      "name": "FrozenTrident",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_trident",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/FrozenTridentItem.java",
+          "src/main/resources/assets/shishamo/models/item/frozen_trident.json"
+        ]
+      }
+    },
+    {
+      "name": "FrozenTridentRightclickedOnBlock",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_trident_rightclicked_on_block",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/FrozenTridentRightclickedOnBlockProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrozenIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "frozen_ingot",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/FrozenIngotItem.java",
+          "src/main/resources/assets/shishamo/models/item/frozen_ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingForzenIngot",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_forzen_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_forzen_ingot.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingFrozenSwordLeft",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_frozen_sword_left",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_frozen_sword_left.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingFrozenSwordMiddle",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_frozen_sword_middle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_frozen_sword_middle.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingFrozenSwordRight",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_frozen_sword_right",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_frozen_sword_right.json"
+        ]
+      }
+    },
+    {
+      "name": "CraftingFrozenTrident",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crafting_frozen_trident",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/crafting_frozen_trident.json"
+        ]
+      }
+    },
+    {
+      "name": "RainChanger",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rain_changer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/rain_changer.json",
+          "src/main/java/shishamo/item/RainChangerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "RainChangerRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rain_changer_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/RainChangerRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ThunderChanger",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thunder_changer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/thunder_changer.json",
+          "src/main/java/shishamo/item/ThunderChangerItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ThunderChangerRightclicked",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thunder_changer_rightclicked",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/ThunderChangerRightclickedProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "UnfinishedSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "unfinished_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/unfinished_sword.json",
+          "src/main/java/shishamo/item/UnfinishedSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BurningBranch",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burning_branch",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/BurningBranchItem.java",
+          "src/main/resources/assets/shishamo/models/item/burning_branch.json"
+        ]
+      }
+    },
+    {
+      "name": "Branch",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "branch",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/branch.json",
+          "src/main/java/shishamo/item/BranchItem.java"
+        ]
+      }
+    },
+    {
+      "name": "BranchGet",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "branch_get",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/BranchGetProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SmeltingBranch",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smelting_branch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/shishamo/recipe/smelting_branch.json"
+        ]
+      }
+    },
+    {
+      "name": "BurningBranchLivingEntityIsHitWithTool",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "burning_branch_living_entity_is_hit_with_tool",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/procedures/BurningBranchLivingEntityIsHitWithToolProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MinebeamSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "minebeam_sword",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/minebeam_sword.json",
+          "src/main/java/shishamo/item/MinebeamSwordItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ChainSickle",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chain_sickle",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/chain_sickle.json",
+          "src/main/java/shishamo/item/ChainSickleItem.java"
+        ]
+      }
+    },
+    {
+      "name": "LeadIngot",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lead_ingot",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/shishamo/models/item/lead_ingot.json",
+          "src/main/java/shishamo/item/LeadIngotItem.java"
+        ]
+      }
+    },
+    {
+      "name": "NetherSword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nether_sword",
+      "metadata": {
+        "files": [
+          "src/main/java/shishamo/item/NetherSwordItem.java",
+          "src/main/resources/assets/shishamo/models/item/nether_sword.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "music_disc.love",
+      "files": [
+        "music_disc.love"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:needs_diamond_tool": [
+      "~CUSTOM:LoveBlock"
+    ],
+    "BLOCKS:minecraft:mineable/pickaxe": [
+      "~CUSTOM:LoveBlock"
+    ],
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:LovePickaxe"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:LoveAxe"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:NetherSword",
+      "~CUSTOM:ChainSickle",
+      "~CUSTOM:MinebeamSword",
+      "~CUSTOM:BurningBranch",
+      "~CUSTOM:UnfinishedSword",
+      "~CUSTOM:FrozenTrident",
+      "~CUSTOM:LeafSword",
+      "~CUSTOM:SpellBlade",
+      "~CUSTOM:RaidenHammer",
+      "~CUSTOM:FrozenSword",
+      "~CUSTOM:DdBlade",
+      "~CUSTOM:LoveSword"
+    ],
+    "ITEMS:minecraft:shovels": [
+      "~CUSTOM:LoveHoe",
+      "~CUSTOM:LoveShovel"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:MusicDiskLove"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.shishamo.love_block": "Love Block",
+      "item.shishamo.unfinished_sword": "Unfinished Sword",
+      "subtitles.jhgf": "",
+      "item.shishamo.frozen_sword": "Frozen Sword",
+      "item.shishamo.love_hoe": "Love Shovel",
+      "advancements.advancement_shishamo.descr": "Welcome Shishamo",
+      "item.shishamo.love_shovel": "Love Shovel",
+      "item.shishamo.music_disk_love.desc": "Shishamo - love",
+      "item.shishamo.leaf_sword": "Leaf Sword",
+      "subtitles.recode": "",
+      "item.shishamo.minebeam_sword": "Minebeam Sword",
+      "item.shishamo.dd_blade": "DD Blade",
+      "item.shishamo.cloud_ingot": "Cloud Ingot",
+      "item.shishamo.thunder_changer": "Thunder Changer",
+      "item.shishamo.love_axe": "Love Axe",
+      "item.shishamo.chain_sickle": "Chain Sickle",
+      "subtitles.music_disc.love": "",
+      "item.shishamo.frozen_trident": "Frozen Trident",
+      "item.shishamo.love_pickaxe": "Love Pickaxe",
+      "item.shishamo.cloud_punch": "Cloud Punch",
+      "item.shishamo.frozen_ingot": "Rain Ingot",
+      "item.shishamo.lead_ingot": "Lead Ingot",
+      "item.shishamo.love_crystal": "Love Crystal",
+      "item.shishamo.spell_dust": "Spell Dust",
+      "item.shishamo.rain_changer": "Rain Changer",
+      "item.shishamo.burning_branch": "Love Sword",
+      "item.shishamo.branch": "Branch",
+      "item.shishamo.refined_spell_dust": "Refined Spell Dust",
+      "subtitles.record_love": "",
+      "item.shishamo.spell_shard": "Spell Shard",
+      "item.shishamo.love_sword": "Love Sword",
+      "item.shishamo.nether_ingot": "Nether Ingot",
+      "item.shishamo.nether_sword": "Nether Sword",
+      "item.shishamo.emerald_nugget": "Emerald Nugget",
+      "item.shishamo.shishamo": "Shishamo Icon",
+      "item.shishamo.raiden_hammer": "§eRaiden Hammer",
+      "item_group.shishamo.shishamo_tab": "Shishamo Tab",
+      "item.shishamo.rain_ingot": "Rain Ingot",
+      "advancements.advancement_shishamo.title": "Shishamo",
+      "item.shishamo.music_disk_love": "Music Disk",
+      "item.shishamo.spell_blade": "§dSpell Blade"
+    },
+    "ja_jp": {
+      "block.shishamo.love_block": "Love Block",
+      "item.shishamo.unfinished_sword": "Love Sword",
+      "subtitles.jhgf": "",
+      "advancements.advancement_shishamo.descr": "Welcome Shishamo",
+      "item.shishamo.frozen_sword": "フローズンソード",
+      "item.shishamo.love_hoe": "愛のクワ",
+      "item.shishamo.love_shovel": "愛のシャベル",
+      "item.shishamo.music_disk_love.desc": "Shishamo - love",
+      "item.shishamo.leaf_sword": "リーフソード",
+      "subtitles.recode": "",
+      "item.shishamo.minebeam_sword": "Love Sword",
+      "item.shishamo.dd_blade": "DD ブレード",
+      "item.shishamo.cloud_ingot": "雲のインゴット",
+      "item.shishamo.thunder_changer": "Rain Changer",
+      "item.shishamo.love_axe": "愛の斧",
+      "item.shishamo.chain_sickle": "Love Sword",
+      "subtitles.music_disc.love": "",
+      "item.shishamo.frozen_trident": "Frozen Sword",
+      "item.shishamo.love_pickaxe": "愛のツルハシ",
+      "item.shishamo.cloud_punch": "クラウドパンチ",
+      "item.shishamo.frozen_ingot": "Rain Ingot",
+      "item.shishamo.lead_ingot": "Cloud Ingot",
+      "item.shishamo.love_crystal": "ラブクリスタル",
+      "item.shishamo.spell_dust": "スペルダスト",
+      "item.shishamo.rain_changer": "Cloud Ingot",
+      "item.shishamo.burning_branch": "Love Sword",
+      "item.shishamo.branch": "Nether Ingot",
+      "item.shishamo.refined_spell_dust": "洗練されたスペルダスト",
+      "subtitles.record_love": "",
+      "item.shishamo.spell_shard": "Love Crystal",
+      "item.shishamo.love_sword": "愛の剣",
+      "item.shishamo.nether_ingot": "ネザーインゴット",
+      "item.shishamo.nether_sword": "Frozen Sword",
+      "item.shishamo.emerald_nugget": "エメラルドの塊",
+      "item.shishamo.shishamo": "Shishamo Icon",
+      "item.shishamo.raiden_hammer": "§e雷電ハンマー",
+      "item_group.shishamo.shishamo_tab": "Shishamo Tab",
+      "item.shishamo.rain_ingot": "雨のインゴット",
+      "advancements.advancement_shishamo.title": "Shishamo",
+      "item.shishamo.music_disk_love": "ミュージックディスク",
+      "item.shishamo.spell_blade": "§dスペルブレード"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "shishamo",
+    "modName": "Shishamo",
+    "version": "0.4.7",
+    "description": "Shishamoooo!",
+    "author": "4ojp Shishamo Team",
+    "websiteURL": "https://modrinth.com/project/shishamo",
+    "license": "MIT",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "neoforge-1.21.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "shishamo"
+  },
+  "mcreatorVersion": 202400342716
+}

@@ -18,8 +18,8 @@
       "registry_name": "love_crystal",
       "metadata": {
         "files": [
-          "src/main/java/shishamo/item/LoveCrystalItem.java",
-          "src/main/resources/assets/shishamo/models/item/love_crystal.json"
+          "src/main/resources/assets/shishamo/models/item/love_crystal.json",
+          "src/main/java/shishamo/item/LoveCrystalItem.java"
         ]
       }
     },
@@ -44,8 +44,8 @@
       "registry_name": "love_pickaxe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/love_pickaxe.json",
-          "src/main/java/shishamo/item/LovePickaxeItem.java"
+          "src/main/java/shishamo/item/LovePickaxeItem.java",
+          "src/main/resources/assets/shishamo/models/item/love_pickaxe.json"
         ]
       }
     },
@@ -57,8 +57,8 @@
       "registry_name": "nether_ingot",
       "metadata": {
         "files": [
-          "src/main/java/shishamo/item/NetherIngotItem.java",
-          "src/main/resources/assets/shishamo/models/item/nether_ingot.json"
+          "src/main/resources/assets/shishamo/models/item/nether_ingot.json",
+          "src/main/java/shishamo/item/NetherIngotItem.java"
         ]
       }
     },
@@ -70,8 +70,8 @@
       "registry_name": "love_axe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/love_axe.json",
-          "src/main/java/shishamo/item/LoveAxeItem.java"
+          "src/main/java/shishamo/item/LoveAxeItem.java",
+          "src/main/resources/assets/shishamo/models/item/love_axe.json"
         ]
       }
     },
@@ -229,8 +229,8 @@
       "registry_name": "love_hoe",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/love_hoe.json",
-          "src/main/java/shishamo/item/LoveHoeItem.java"
+          "src/main/java/shishamo/item/LoveHoeItem.java",
+          "src/main/resources/assets/shishamo/models/item/love_hoe.json"
         ]
       }
     },
@@ -328,8 +328,8 @@
       "registry_name": "cloud_punch",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/cloud_punch.json",
-          "src/main/java/shishamo/item/CloudPunchItem.java"
+          "src/main/java/shishamo/item/CloudPunchItem.java",
+          "src/main/resources/assets/shishamo/models/item/cloud_punch.json"
         ]
       }
     },
@@ -359,8 +359,8 @@
       "registry_name": "dd_blade",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/dd_blade.json",
-          "src/main/java/shishamo/item/DdBladeItem.java"
+          "src/main/java/shishamo/item/DdBladeItem.java",
+          "src/main/resources/assets/shishamo/models/item/dd_blade.json"
         ]
       }
     },
@@ -496,8 +496,8 @@
       "registry_name": "refined_spell_dust",
       "metadata": {
         "files": [
-          "src/main/java/shishamo/item/RefinedSpellDustItem.java",
-          "src/main/resources/assets/shishamo/models/item/refined_spell_dust.json"
+          "src/main/resources/assets/shishamo/models/item/refined_spell_dust.json",
+          "src/main/java/shishamo/item/RefinedSpellDustItem.java"
         ]
       }
     },
@@ -558,8 +558,8 @@
       "registry_name": "raiden_hammer",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/raiden_hammer.json",
-          "src/main/java/shishamo/item/RaidenHammerItem.java"
+          "src/main/java/shishamo/item/RaidenHammerItem.java",
+          "src/main/resources/assets/shishamo/models/item/raiden_hammer.json"
         ]
       }
     },
@@ -589,8 +589,8 @@
       "registry_name": "spell_blade",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/spell_blade.json",
-          "src/main/java/shishamo/item/SpellBladeItem.java"
+          "src/main/java/shishamo/item/SpellBladeItem.java",
+          "src/main/resources/assets/shishamo/models/item/spell_blade.json"
         ]
       }
     },
@@ -757,9 +757,9 @@
       "registry_name": "love_block",
       "metadata": {
         "files": [
-          "src/main/java/shishamo/block/LoveBlockBlock.java",
           "src/main/resources/assets/shishamo/blockstates/love_block.json",
           "src/main/resources/data/shishamo/loot_table/blocks/love_block.json",
+          "src/main/java/shishamo/block/LoveBlockBlock.java",
           "src/main/resources/assets/shishamo/models/block/love_block.json",
           "src/main/resources/assets/shishamo/models/item/love_block.json"
         ]
@@ -773,8 +773,8 @@
       "registry_name": "spell_shard",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/spell_shard.json",
-          "src/main/java/shishamo/item/SpellShardItem.java"
+          "src/main/java/shishamo/item/SpellShardItem.java",
+          "src/main/resources/assets/shishamo/models/item/spell_shard.json"
         ]
       }
     },
@@ -954,8 +954,8 @@
       "registry_name": "rain_changer",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/rain_changer.json",
-          "src/main/java/shishamo/item/RainChangerItem.java"
+          "src/main/java/shishamo/item/RainChangerItem.java",
+          "src/main/resources/assets/shishamo/models/item/rain_changer.json"
         ]
       }
     },
@@ -997,8 +997,8 @@
       "registry_name": "thunder_changer",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/thunder_changer.json",
-          "src/main/java/shishamo/item/ThunderChangerItem.java"
+          "src/main/java/shishamo/item/ThunderChangerItem.java",
+          "src/main/resources/assets/shishamo/models/item/thunder_changer.json"
         ]
       }
     },
@@ -1040,8 +1040,8 @@
       "registry_name": "unfinished_sword",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/unfinished_sword.json",
-          "src/main/java/shishamo/item/UnfinishedSwordItem.java"
+          "src/main/java/shishamo/item/UnfinishedSwordItem.java",
+          "src/main/resources/assets/shishamo/models/item/unfinished_sword.json"
         ]
       }
     },
@@ -1053,8 +1053,8 @@
       "registry_name": "burning_branch",
       "metadata": {
         "files": [
-          "src/main/java/shishamo/item/BurningBranchItem.java",
-          "src/main/resources/assets/shishamo/models/item/burning_branch.json"
+          "src/main/resources/assets/shishamo/models/item/burning_branch.json",
+          "src/main/java/shishamo/item/BurningBranchItem.java"
         ]
       }
     },
@@ -1066,8 +1066,8 @@
       "registry_name": "branch",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/branch.json",
-          "src/main/java/shishamo/item/BranchItem.java"
+          "src/main/java/shishamo/item/BranchItem.java",
+          "src/main/resources/assets/shishamo/models/item/branch.json"
         ]
       }
     },
@@ -1156,8 +1156,8 @@
       "registry_name": "chain_sickle",
       "metadata": {
         "files": [
-          "src/main/resources/assets/shishamo/models/item/chain_sickle.json",
-          "src/main/java/shishamo/item/ChainSickleItem.java"
+          "src/main/java/shishamo/item/ChainSickleItem.java",
+          "src/main/resources/assets/shishamo/models/item/chain_sickle.json"
         ]
       }
     },
@@ -1182,8 +1182,8 @@
       "registry_name": "nether_sword",
       "metadata": {
         "files": [
-          "src/main/java/shishamo/item/NetherSwordItem.java",
-          "src/main/resources/assets/shishamo/models/item/nether_sword.json"
+          "src/main/resources/assets/shishamo/models/item/nether_sword.json",
+          "src/main/java/shishamo/item/NetherSwordItem.java"
         ]
       }
     }
