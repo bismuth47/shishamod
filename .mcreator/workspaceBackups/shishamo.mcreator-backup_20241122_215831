@@ -1226,8 +1226,8 @@
       "~CUSTOM:DdBlade",
       "~CUSTOM:LoveSword"
     ],
-    "ITEMS:minecraft:hoes": [],
     "ITEMS:minecraft:shovels": [
+      "~CUSTOM:LoveHoe",
       "~CUSTOM:LoveShovel"
     ],
     "ITEMS:minecraft:music_discs": [
