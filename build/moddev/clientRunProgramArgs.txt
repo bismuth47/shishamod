@@ -9,7 +9,7 @@ forgeclientuserdev
 --assetIndex
 17
 --assetsDir
-C:\\Users\\raiko\\.mcreator\\gradle\\caches\\neoformruntime\\assets
+/Users/4ojp/.mcreator/gradle/caches/neoformruntime/assets
 --gameDir
 .
 --fml.neoForgeVersion
